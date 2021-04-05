@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37623" started-at="2020-12-29T15:15:12 IST" finished-at="2020-12-29T15:15:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37623" started-at="2020-12-29T15:15:12 IST" finished-at="2020-12-29T15:15:50 IST">
+      <class name="com.MySchoolBot.testingpages.TestFirstPage">
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:com.MySchoolBot.testingpages.TestFirstPage@ea1a8d5]" name="BrowserOpen" is-config="true" duration-ms="12129" started-at="2020-12-29T15:15:12 IST" finished-at="2020-12-29T15:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="logpage()[pri:0, instance:com.MySchoolBot.testingpages.TestFirstPage@ea1a8d5]" name="logpage" duration-ms="23823" started-at="2020-12-29T15:15:24 IST" finished-at="2020-12-29T15:15:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logpage -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.MySchoolBot.testingpages.TestFirstPage@ea1a8d5]" name="CloseBrowser" is-config="true" duration-ms="1572" started-at="2020-12-29T15:15:48 IST" finished-at="2020-12-29T15:15:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.MySchoolBot.testingpages.TestFirstPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
